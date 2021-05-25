@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-body{
+    width: 75vw;
+    border-width: 75vw;
+}
+
+/* h1, h2{
+    display: flex;
+    text-align: center;
+} */
+
+.winner {
+    color: rgb(39, 175, 39);
+}
+
+.loser {
+    color: rgb(247, 58, 58);
+}
